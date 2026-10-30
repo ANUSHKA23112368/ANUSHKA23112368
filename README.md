@@ -116,13 +116,13 @@ Status      : Open for Software Engineering & Machine Learning Internships
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANUSHKA23112368&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="assets/stats.svg" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=ANUSHKA23112368&hide_border=false&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=ffffff&currStreakLabel=00ff66&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSHKA23112368&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&border_color=00ff66&title_color=00ff66&text_color=c9d1d9" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUSHKA23112368&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=false&border_color=00ff66" width="49%" alt="Contribution Graph" />
+<img src="assets/top-langs.svg" width="49%" alt="Top Languages" />
+<img src="assets/activity.svg" width="49%" alt="Contribution Graph" />
 
 <!--
 OPTIONAL: contribution snake (needs the snake.yml workflow in .github/workflows/ and one successful run).
