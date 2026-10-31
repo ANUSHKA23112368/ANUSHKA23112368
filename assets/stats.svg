@@ -5,7 +5,7 @@
   
   <text x="25" y="72" fill="#c9d1d9" font-size="22" font-weight="700">0</text>
   <text x="25" y="89" fill="#8b949e" font-size="12">Total Stars</text>
-  <text x="250" y="72" fill="#c9d1d9" font-size="22" font-weight="700">34</text>
+  <text x="250" y="72" fill="#c9d1d9" font-size="22" font-weight="700">51</text>
   <text x="250" y="89" fill="#8b949e" font-size="12">Commits (last year)</text>
   <text x="25" y="115" fill="#c9d1d9" font-size="22" font-weight="700">0</text>
   <text x="25" y="132" fill="#8b949e" font-size="12">Pull Requests</text>
