@@ -2,12 +2,11 @@ name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
-    paths:
-      - "scripts/generate_stats.py"
-      - ".github/workflows/profile-stats.yml"
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -22,8 +21,6 @@ jobs:
 
       - name: Generate stats cards
         env:
-          # Optional: add a repository secret named STATS_TOKEN (classic PAT with
-          # read:user and repo scopes) to include private contributions.
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
           OUT_DIR: assets
