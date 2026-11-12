@@ -117,7 +117,7 @@ Status      : Open for Software Engineering & Machine Learning Internships
 <div align="center">
 
 <img src="assets/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=ANUSHKA23112368&timezone=Asia/Calcutta&hide_border=false&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=ffffff&currStreakLabel=00ff66&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak" />
+<img src="assets/streak.svg" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
 
